@@ -10,7 +10,7 @@ This repository contains the Kubernetes manifests to deploy an NGINX server, alo
 
 ## Usage
 
-To deploy the NGINX server, apply the `nginx-deploymrnt.yaml` file:
+To deploy the NGINX server, apply the `nginx-deploymrnt.yml` file:
 
 ```cmd to apply 
 kubectl apply -f nginx-deployment.yml
